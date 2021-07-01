@@ -35,7 +35,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-helmet": "6.0.0",
-    "snyk": "1.379.2"
+    "snyk": "1.518.0"
   },
   "devDependencies": {
     "@commitlint/cli": "8.3.5",
