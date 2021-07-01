@@ -32,8 +32,8 @@
     "muy": "0.16.0",
     "netlify-cms-app": "2.12.7",
     "prop-types": "15.7.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "react-helmet": "6.0.0",
     "snyk": "1.379.2"
   },
@@ -53,7 +53,7 @@
     "jest": "25.5.4",
     "netlify": "4.9.0",
     "prettier": "2.3.2",
-    "react-test-renderer": "16.13.1",
+    "react-test-renderer": "16.14.0",
     "start-server-and-test": "1.12.5"
   },
   "keywords": [
